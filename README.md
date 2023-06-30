@@ -1,3 +1,4 @@
 # gwas_demo
-demo for GWAS
+demo for GWAS 
+
 assisted by chatgpt4
